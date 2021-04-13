@@ -15,7 +15,8 @@ Else ;YY Jitter for M16/Famas
 {
 SetMouseDelay 5
 Click
-MouseClick, X2, , , 2
+Send {1}
+Send {1}
 }
 If (GetKeyState("LButton","P")=0)
 Break
