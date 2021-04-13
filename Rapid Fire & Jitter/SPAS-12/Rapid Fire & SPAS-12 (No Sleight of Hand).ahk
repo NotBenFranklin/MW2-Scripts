@@ -1,5 +1,5 @@
 Delete::Suspend
-LButton::
+~$*LButton::
 Loop
 {
 If (GetKeyState("RButton","P")=0) ;XYY Jitter for Spas-12, no SoH
